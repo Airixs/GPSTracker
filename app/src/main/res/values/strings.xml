@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GPSTracking App</string>
+    <string name="ButtonGOText">start</string>
+</resources>
